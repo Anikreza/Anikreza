@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on software developement projects that you might be working on, or looking up to someone like me to hire!
 - 📫 How to reach me: tanvirrezaanik@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anikreza&theme=oldie&column=3&margin-w=25&margin-h=15)](https://github.com/Anikreza/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anikreza&theme=oldie&column=4&margin-w=15&margin-h=15)](https://github.com/Anikreza/github-profile-trophy)
 
 <!---
 Anikreza/Anikreza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

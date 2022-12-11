@@ -15,8 +15,7 @@ I'm a Full-Stack Web Developer 💻, Travel Blogger From Bangladesh!
 <a href="https://instagram.com/anikreza"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 <a href="https://facebook.com/anikreza22"><img align="left" src="https://github.com/Anikreza/Images_For_Online_Use/blob/main/fb.png" alt="Fb" width="21px"/></a> 
 <a href="https://www.patreon.com/user?u=36041123"><img align="left" src="https://github.com/Anikreza/Images_For_Online_Use/blob/main/Pt.png" alt="Patreon" width="21px"/></a> 
-
-
+<br/>
 
 ## 🔭 I'm currently working on
 

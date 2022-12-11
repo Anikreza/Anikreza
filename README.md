@@ -4,6 +4,7 @@
 
                                                       👋 Hi, I’m Tanvir Reza Anik
                                                  A Fullstack Web Developer From Bangladesh
+                                                 
 - 👀 I’m interested in building up interactive web applications, add to that, I absolutely enjoy pile up programs from scratch, my favourite is ReactJS, LARAVEL and mysql combo!  
 - 🌱 I’m currently learning higher level features of Laravel Framework
 - 💞️ I’m looking to collaborate on software developement projects that you might be working on, or looking up to someone like me to hire!
@@ -17,16 +18,6 @@
 
 [![Anikrezas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Anikreza)](https://github.com/Anikreza/github-readme-stats)
 
-<dl>
+<!-- <dl>
   <dt>Contact Me</dt>
-</dl>
-
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+</dl> -->

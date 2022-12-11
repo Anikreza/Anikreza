@@ -6,7 +6,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anikreza&theme=oldie&column=7&margin-w=15&margin-h=15)](https://github.com/Anikreza/github-profile-trophy)
 
-<!---
-Anikreza/Anikreza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>

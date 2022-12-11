@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning higher level features of VueJs Framework
 - 💞️ I’m looking to collaborate on software developement projects that you might be working on, or looking up to someone like me to hire!
 - 📫 How to reach me: tanvirrezaanik@gmail.com
-- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anikreza)](https://github.com/Anikreza/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anikreza&theme=onedark)](https://github.com/Anikreza/github-profile-trophy)
 
 <!---
 Anikreza/Anikreza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

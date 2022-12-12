@@ -19,7 +19,7 @@ I'm a Full-Stack Web Developer 💻, Travel Blogger From Bangladesh!
 
 ## 🔭 I'm currently working on
 
-- A Project Management Application (Web & Mobile) For A German Tax Collectors Office (React/Ionic/Sass)
+- A Project Management Application (Web & Mobile) For A German Tax Collectors Office (React/Laravel/Ionic/Sass)
 - A Consultation App for student counceling and Job providing authority (React/Laravel/TailwindCss)
 - A Multilanguage, Multitheme Travel Blogsite (Laravel/Bootstrap/Vuejs)
 - Improving My Css Frameworks 

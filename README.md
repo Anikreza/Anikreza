@@ -48,9 +48,9 @@ I'm a Full-Stack Web Developer 💻, Travel Blogger From Bangladesh!
 
 [![Anikreza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anikreza&count_private=trueshow_icons=true&theme=transparent)](https://github.com/Anikreza/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anikreza&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anikreza&layout=compact&langs_count=8&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Aniikreza's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Anikreza)](https://github.com/Anikreza/github-readme-stats)
+[![Aniikreza's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Anikreza&theme=transparent)](https://github.com/Anikreza/github-readme-stats)
 
 <!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/) -->
 

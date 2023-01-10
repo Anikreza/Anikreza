@@ -26,7 +26,7 @@ I'm a Full-Stack Web Developer, Travel Blogger From Bangladesh!
 
 ## I'm currently learning
 
-- Typescript
+- Advanced Typescript
 - Deeper Features of Laravel
 
 <!-- <dl>

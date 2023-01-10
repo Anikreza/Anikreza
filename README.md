@@ -26,8 +26,8 @@ I'm a Full-Stack Web Developer, Travel Blogger From Bangladesh!
 
 ## I'm currently learning
 
+- Typescript
 - Deeper Features of Laravel
-- React Context API    
 
 <!-- <dl>
   <dt>Contact Me</dt>

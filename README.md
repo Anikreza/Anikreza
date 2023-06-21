@@ -3,7 +3,7 @@
 Hi there, I'm <a href="https://www.facebook.com/anikreza22" target="_blank" rel="noreferrer">Tanvir Reza Anik</a> 👋
 </h3>
 <h2 align="center">
-I'm a Full-Stack Web Developer, Travel Blogger From Bangladesh!
+I'm a Full-Stack Web Developer From Bangladesh!
 </h2> 
 
 - 👀 I’m interested in building up interactive web applications, add to that, I absolutely enjoy pile up programs from scratch, my favourite is ReactJS, LARAVEL and mysql combo!  

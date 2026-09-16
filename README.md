@@ -10,10 +10,11 @@ A Full-Stack Web Developer From Dhaka, Bangladesh!
 - 💞️ I’m looking to collaborate on software developement projects that you might be working on, or looking up to someone like me to hire!
 - 📫 How to reach me: tanvirrezaanik@gmail.com
 
-- <a href="https://www.linkedin.com/in/tanvir-reza-anik-92b925241/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<!--- <a href="https://www.linkedin.com/in/tanvir-reza-anik-92b925241/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/anikreza"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 <a href="https://facebook.com/anikreza22"><img align="left" src="https://github.com/Anikreza/Images_For_Online_Use/blob/main/fb.png" alt="Fb" width="21px"/></a> 
 <a href="https://www.patreon.com/user?u=36041123"><img align="left" src="https://github.com/Anikreza/Images_For_Online_Use/blob/main/Pt.png" alt="Patreon" width="21px"/></a> 
+ -->
 <br/>
 
 ## I'm currently working on

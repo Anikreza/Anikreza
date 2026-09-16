@@ -19,11 +19,11 @@ A Full-Stack Web Developer From Dhaka, Bangladesh!
 
 ## I'm currently working on
 
-- A ERP for growing businesses whose pains are mostly bypassed by industries
+- An ERP for growing businesses in Bangladesh, whose pains are mostly bypassed by industry
 - A Project Management Application (Web & Mobile) For A German Tax Collectors Office
 - A Sass e-commerce project 
 - Improving My AI efficiencies
-- Building themes for <a href="https://mypinacle.com" target="_blank" rel="noreferrer">MyPinacle </a> 
+- Engineering projects & themes for <a href="https://mypinacle.com" target="_blank" rel="noreferrer">MyPinacle </a> 
 
 ## I'm currently learning
 

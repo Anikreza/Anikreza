@@ -18,16 +18,16 @@ A Full-Stack Web Developer From Dhaka, Bangladesh!
 
 ## I'm currently working on
 
-- An Inventory management software for market with POS, HRM & Ecommerce options (Vuejs/Laravel/Bootstrap)
-- A Project Management Application (Web & Mobile) For A German Tax Collectors Office (React/Laravel/Ionic/Sass)
-- A Multilanguage, Multitheme Travel Blogsite (Laravel/Bootstrap/Vuejs)
-- Improving My Css Frameworks 
-- Updating Older Projects on Portfolio
+- A ERP for growing businesses whose pains are mostly bypassed by industries
+- A Project Management Application (Web & Mobile) For A German Tax Collectors Office
+- A Sass e-commerce project 
+- Improving My AI efficiencies
+- Building themes for <a href="https://mypinacle.com" target="_blank" rel="noreferrer">MyPinacle </a> 
 
 ## I'm currently learning
 
 - Advanced Typescript
-- Deeper Features of Laravel
+- Peaking at optimized prompt engineering and Agentic workflow
 
 <!-- <dl>
   <dt>Contact Me</dt>
